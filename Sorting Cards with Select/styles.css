@@ -1,0 +1,48 @@
+body {
+    background-color: green;
+}
+.card {
+    display: inline-block;
+    width: 100px;
+    height: 150px;
+    border: 1px solid black;
+    margin-right: 10px;
+    
+    
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 5px;
+  }
+  .palosuperior {
+    width: 30px;
+    background-color: red;
+    float: left;
+    font-size: 25px;
+    font-weight: bold;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+  }
+  .numero {
+    width: auto;
+    background-color: rgb(50, 16, 183);
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    height: 90px;
+    margin-top: 30px;
+  }
+  .paloinferior {
+    width: 30px;
+    background-color: rgb(135, 239, 25);
+    float: right;
+    font-size: 25px;
+    font-weight: bold;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+  }
+  
+  .log {
+    margin-top: 10px;
+  }
